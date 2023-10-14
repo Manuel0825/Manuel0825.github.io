@@ -1,15 +1,6 @@
 body {
-  font-family: fantasy;
-  /*background-image: url("img\ /cool-background.png");*/
-
-  /*background-image: url("../cool-background.png")*/
-
-  /*background-color: #fffafa;
-opacity: 1;
-background-size: 18px 17px;
-background-image:  repeating-linear-gradient(0deg, #161919, #161919 1px, #fffafa 1px, #fffafa);*/
-
-  background-size: 300% 300%; /* this is width and hight*/
+  font-family: 'Times New Roman', Times, serif;
+  
   background-image: linear-gradient(
     -45deg,
     rgb(0, 255, 183) 0%,
@@ -78,7 +69,7 @@ header {
   margin: 10px;
   cursor: pointer;
   font-size: xx-large;
-  font-family: Virgil;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .FirstButtons a {
@@ -123,7 +114,7 @@ header {
   margin: 10px; /* Add some margin to separate the boxes */
   padding: 10px; /* space within the box*/
   font-size: large;
-  /*text-align: left;  Center text horizontally */
+  
 }
 
 .SecoundColumn ul {
